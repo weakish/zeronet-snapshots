@@ -1,0 +1,3 @@
+[submodule "ZeroHello"]
+	path = ZeroHello
+	url = https://github.com/HelloZeroNet/ZeroHello.git
