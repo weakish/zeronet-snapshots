@@ -1,3 +1,6 @@
 [submodule "ZeroHello"]
 	path = ZeroHello
 	url = https://github.com/HelloZeroNet/ZeroHello.git
+[submodule "ZeroMe"]
+	path = ZeroMe
+	url = https://github.com/HelloZeroNet/ZeroMe.git
