@@ -4,3 +4,27 @@
 [submodule "ZeroMe"]
 	path = ZeroMe
 	url = https://github.com/HelloZeroNet/ZeroMe.git
+[submodule "zeroid-snapshots"]
+	path = zeroid-snapshots
+	url = https://github.com/weakish/zeroid-snapshots.git
+[submodule "zeroname-snapshots"]
+	path = zeroname-snapshots
+	url = https://github.com/weakish/zeroname-snapshots
+[submodule "zeroblog-snapshots"]
+	path = zeroblog-snapshots
+	url = https://github.com/weakish/zeroblog-snapshots.git
+[submodule "zerosecurity-snapshots"]
+	path = zerosecurity-snapshots
+	url = https://github.com/weakish/zerosecurity-snapshots.git
+[submodule "0list-snapshots"]
+	path = 0list-snapshots
+	url = https://github.com/weakish/0list-snapshots.git
+[submodule "SetupList-snapshots"]
+	path = SetupList-snapshots
+	url = https://github.com/weakish/SetupList-snapshots
+[submodule "0talk-snapshots"]
+	path = 0talk-snapshots
+	url = https://github.com/weakish/0talk-snapshots.git
+[submodule "0talk_zh-snapshots"]
+	path = 0talk_zh-snapshots
+	url = https://github.com/weakish/0talk_zh-snapshots.git
